@@ -35,6 +35,7 @@ menu li{
 
 menu li:hover{
     background-color: black;
+    cursor: ;
     transition-duration: 0.3s;
 }
 
